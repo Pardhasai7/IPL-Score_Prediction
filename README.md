@@ -32,8 +32,8 @@ pip install pandas numpy matplotlib scikit-learn
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Pardhasai7/IPL-Score-Prediction.git
-   cd IPL-Score-Prediction
+   git clone https://github.com/Pardhasai7/IPL-Score_Prediction.git
+   cd IPL-Score_Prediction
    ```
 2. Install required dependencies.
 3. Open the Jupyter notebook and run it.
